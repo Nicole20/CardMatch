@@ -1,6 +1,6 @@
 # CardMatch
 
-This game is a memory game with a little twist. The player has to match all the cards, but there is a Mix Up card which means the remainning cards will be shuffled around.
+This game is a memory game with a little twist. The player has to match all the cards, but there is a Mix Up card which means the remaining cards will be shuffled around.
 
 # Unity Objects
 
